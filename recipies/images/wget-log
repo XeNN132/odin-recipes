@@ -1,0 +1,7 @@
+--2024-07-01 05:56:40--  https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Ff67945eb957440f921ca02077380f2b2%2F1687306955911IMG_0165.jpeg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving imagesvc.meredithcorp.io (imagesvc.meredithcorp.io)... 151.101.126.137
+Connecting to imagesvc.meredithcorp.io (imagesvc.meredithcorp.io)|151.101.126.137|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2024-07-01 05:56:40 ERROR 400: Bad Request.
+
